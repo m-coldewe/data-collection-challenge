@@ -20,10 +20,13 @@ The second part adds Pandas and Matplotlib. With Splinter, it navigates to the w
 1. How many months exist on Mars? 12
 2. How many Martian day's worth of data are there? 1867
 3. What is the average low temperature by month?
+![min_temp_by_month](https://github.com/m-coldewe/data-collection-challenge/assets/152045367/77593ea1-8cfa-4c5a-94cf-519c6c29cb46)
 
 4. Which months have the lowest and highest atmospheric pressure on Mars?
+![presure_by_month](https://github.com/m-coldewe/data-collection-challenge/assets/152045367/a3802ede-5fd7-49bb-8b95-f8d76aaa50ba)
 
 5. How many terrestrial days are there in a Martian year?
+![num_terrestrial_days](https://github.com/m-coldewe/data-collection-challenge/assets/152045367/c335b845-34e0-418c-950f-d069abffc2cb)
 
 
 ## Summary
