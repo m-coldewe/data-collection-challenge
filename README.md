@@ -16,6 +16,8 @@ The second part adds Pandas and Matplotlib. With Splinter, it navigates to the w
 4. Which months have the lowest and hightest atmosphereic pressue on Mars?
 5. About how many terrestrial days exist in a Martian year?
 
+I initially had trouble pulling the text from the table to convert it to a Pandas dataframe. Tutor Kourt walked me through setting up a function to parse both the header data and row data. I didn't end up using the function, but he helped me understand the process so I could pull it apart and get the for loops to pull the data I wanted. 
+
 ## Results
 1. How many months exist on Mars? 12
 2. How many Martian day's worth of data are there? 1867
